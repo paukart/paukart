@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @paukart
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning C++, Python, PHP
 - 📫 paukart12@gmail.com
