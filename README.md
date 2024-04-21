@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @paukart
-- 🌱 I’m currently learning QA
+- 🌱 QA Engineer in Softrust Company
 - 📫 paukart12@gmail.com
